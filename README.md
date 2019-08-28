@@ -5,9 +5,10 @@ This repository contains implementations of generative models using NumPy.
 ## Available implementations
 1. Naive Bayes (classifier)
 2. Boltzmann machine
+3. Restricted Boltzmann machine
 
 ## In progress
-1. Restricted Boltzmann machine
+1. GAN
 
 ## Motivation
 In my opinion, the best way to grasp a new generative model is by implementing it in NumPy. Only by doing so, one can understand the full picture of (probabilisitc) model assumptions, optimization and sampling. 
